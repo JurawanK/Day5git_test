@@ -10,6 +10,7 @@ namespace Day5git_test
     {
         static void Main(string[] args)
         {
+            Console.wite("Hello");
         }
     }
 }
